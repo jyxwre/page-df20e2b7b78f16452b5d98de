@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "5849f6cbc2461d317fd9a813",
+  "owner": "jyxwre",
+  "repo": "page-df20e2b7b78f16452b5d98de",
+  "title": "hpdd",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "df20e2b7b78f16452b5d98de",
+      "a": "hpdd",
+      "b": "",
+      "entity": "hpdd",
+      "brand": "hpdd",
+      "separator": "",
+      "path": "index.html",
+      "hash": "5e393c6804cb79da3c3871d95fc05712c87b926f8347fdf78d0ff0d7a60c3c01",
+      "content": {
+        "keyword1": "hpdd",
+        "keyword2": "",
+        "primary_entity": "hpdd",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "hpdd 是新一代数字基础设施与网络连接服务商，为您提供高带宽流量、多设备在线管理以及精细化网络路由支持。",
+          "AI_DESCRIPTION": "hpdd 是新一代数字基础设施与网络连接服务商，为您提供高带宽流量、多设备在线管理以及精细化网络路由支持。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root {--bg-color: #0d0d0d;--text-color: #e0e0e0;--accent-color: #00ff66;--panel-bg: #161616;--border-color: #262626;--muted-color: #888888}\n* {box-sizing: border-box;margin: 0;padding: 0}\nbody {background-color: var(--bg-color);color: var(--text-color);font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif;line-height: 1.6;padding: 0 1rem}\nheader {max-width: 1200px;margin: 0 auto;padding: 1.5rem 0;border-bottom: 1px solid var(--border-color);display: flex;flex-direction: column;gap: 0.5rem}\n.breadcrumb {font-size: 0.85rem;color: var(--muted-color);text-transform: uppercase;letter-spacing: 0.05em}\n.nav-links {display: flex;gap: 1.5rem;font-size: 0.95rem}\n.nav-links a {color: var(--text-color);text-decoration: none;transition: color 0.2s}\n.nav-links a:hover {color: var(--accent-color)}\nmain {max-width: 1200px;margin: 0 auto;padding: 3rem 0}\n.hero-section {display: grid;grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));gap: 2rem;margin-bottom: 5rem;align-items: start}\n.hero-col {background-color: var(--panel-bg);border: 1px solid var(--border-color);padding: 2rem;position: relative}\n.hero-col h1 {font-size: 2.5rem;color: var(--accent-color);margin-bottom: 1rem;letter-spacing: -0.03em}\n.hero-quote {font-size: 1.1rem;font-style: italic;color: #ffffff;border-left: 3px solid var(--accent-color);padding-left: 1rem;margin: 1.5rem 0}\n.section-title {font-size: 1.8rem;color: #ffffff;margin-bottom: 2rem;position: relative;display: inline-block}\n.section-title::after {content: '';position: absolute;left: 0;bottom: -6px;width: 40px;height: 2px;background-color: var(--accent-color)}\n.grid-cards {display: grid;grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));gap: 1.5rem;margin-bottom: 5rem}\n.card {background-color: var(--panel-bg);border: 1px solid var(--border-color);padding: 2rem;position: relative;overflow: hidden}\n.card-number {position: absolute;right: -10px;bottom: -20px;font-size: 6rem;font-weight: 900;color: rgba(255, 255, 255, 0.03);z-index: 0;pointer-events: none}\n.card-content {position: relative;z-index: 1}\n.card h3 {font-size: 1.2rem;margin-bottom: 0.75rem;color: #ffffff}\n.card p {color: var(--muted-color);font-size: 0.95rem}\n.plans-section {margin-bottom: 5rem}\n.table-wrapper {overflow-x: auto;border: 1px solid var(--border-color);background-color: var(--panel-bg)}\ntable {width: 100%;border-collapse: collapse;text-align: left;white-space: nowrap}\nth, td {padding: 1.25rem 1.5rem;border-bottom: 1px solid var(--border-color)}\nth {background-color: rgba(255, 255, 255, 0.02);color: #ffffff;font-weight: 600}\ntd {color: var(--text-color);font-size: 0.95rem}\ntr:last-child td {border-bottom: none}\n.highlight-cell {color: var(--accent-color);font-weight: bold}\n.faq-section {margin-bottom: 5rem}\n.faq-grid {display: grid;grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));gap: 2rem}\n.faq-item {background-color: var(--panel-bg);border: 1px solid var(--border-color);padding: 2rem}\n.faq-item h3 {color: var(--accent-color);font-size: 1.1rem;margin-bottom: 0.75rem}\n.faq-item p {color: var(--muted-color);font-size: 0.95rem}\nfooter {max-width: 1200px;margin: 0 auto;padding: 2rem 0;border-top: 1px solid var(--border-color);text-align: center;color: var(--muted-color);font-size: 0.85rem}\n@media (max-width: 768px) {\n  .hero-col h1 {font-size: 2rem}\n}\n</style><header>\n  <div class=\"breadcrumb\">Index / Overview / Services</div>\n  <nav class=\"nav-links\">\n    <a href=\"#about\">关于 hpdd</a>\n    <a href=\"#features\">服务特性</a>\n    <a href=\"#plans\">套餐方案</a>\n    <a href=\"#faq\">常见问题</a>\n  </nav>\n</header>\n\n<main>\n  <div class=\"hero-section\">\n    <div class=\"hero-col\">\n      <h1>hpdd</h1>\n      <div class=\"hero-quote\">“在数据流动的暗处，建立清晰、可靠且持久的结构支撑。”</div>\n      <p>hpdd 致力于构建新一代数字基础设施。我们拒绝冗余的修饰，专注于提供扎实的高速流量通道、稳定的节点布局以及企业级的多设备兼容管理方案。</p>\n    </div>\n    <div class=\"hero-col\">\n      <h2>为什么选择我们的架构？</h2>\n      <p>您是否经常面临连接中断、带宽虚标或响应迟缓的困扰？hpdd 采用多路冗余与精细化路由调度，从底层确保每一次数据交互的纯净与高效。</p>\n      <p>无论个人日常查阅还是团队协作传输，这里都有为您量身定制的方案匹配。</p>\n    </div>\n  </div>\n\n  <section id=\"features\" class=\"features-section\">\n    <h2 class=\"section-title\">核心体系结构</h2>\n    <div class=\"grid-cards\">\n      <div class=\"card\">\n        <div class=\"card-number\">01</div>\n        <div class=\"card-content\">\n          <h3>极速流量通道</h3>\n          <p>配备充足的每月高速流量额度，满足您各类大容量数据传输、高清视听及实时交互的需求，告别卡顿与延迟。</p>\n        </div>\n      </div>\n      <div class=\"card\">\n        <div class=\"card-number\">02</div>\n        <div class=\"card-content\">\n          <h3>多设备协同</h3>\n          <p>支持从手机、平板到桌面端的多终端同时在线。无需频繁切换登录授权，全屋或全团队设备无缝接入。</p>\n        </div>\n      </div>\n      <div class=\"card\">\n        <div class=\"card-number\">03</div>\n        <div class=\"card-content\">\n          <h3>专属路由优化</h3>\n          <p>内置智能或专线游戏加速优化选项，针对不同地区的网络环境进行针对性调校，保障关键任务的连通率。</p>\n        </div>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"plans\" class=\"plans-section\">\n    <h2 class=\"section-title\">服务方案与配置对比</h2>\n    <div class=\"table-wrapper\">\n      <table>\n        <thead>\n          <tr>\n            <th>方案名称</th>\n            <th>每月价格</th>\n            <th>年付优惠</th>\n            <th>每月流量</th>\n            <th>设备在线限制</th>\n            <th>核心权益</th>\n          </tr>\n        </thead>\n        <tbody>\n          <tr>\n            <td class=\"highlight-cell\">基础版</td>\n            <td>¥15 / 月</td>\n            <td>按年付仅需 ¥150 / 年</td>\n            <td>100GB 极速流量</td>\n            <td>支持 3 台设备</td>\n            <td>解锁基础流媒体、普通线路节点池</td>\n          </tr>\n          <tr>\n            <td class=\"highlight-cell\">旗舰版 (推荐)</td>\n            <td>¥35 / 月</td>\n            <td>按年付仅需 ¥350 / 年</td>\n            <td>300GB 极速流量</td>\n            <td>支持 5 台设备</td>\n            <td>全节点原生解锁、IPLC 专线优化、7x24 优先工单</td>\n          </tr>\n          <tr>\n            <td class=\"highlight-cell\">团队版</td>\n            <td>¥85 / 月</td>\n            <td>按年付仅需 ¥850 / 年</td>\n            <td>1000GB 极速流量</td>\n            <td>支持 20 台设备</td>\n            <td>VIP 高带宽节点、企业定制路由、专属客户经理</td>\n          </tr>\n        </tbody>\n      </table>\n    </div>\n  </section>\n\n  <section id=\"faq\" class=\"faq-section\">\n    <h2 class=\"section-title\">常见问题引导</h2>\n    <div class=\"faq-grid\">\n      <div class=\"faq-item\">\n        <h3>如何开始使用 hpdd 的服务？</h3>\n        <p>您可以在上方挑选符合需求的套餐方案并完成配置。开通后，系统将为您分发专属的接入凭证与配置指南，根据提示导入客户端即可开始使用。</p>\n      </div>\n      <div class=\"faq-item\">\n        <h3>不同套餐之间是否支持随时升级？</h3>\n        <p>支持。如果您发现当前流量或设备数不敷使用，可在用户面板内直接补差价升级至更高阶的旗舰版或团队版，系统将自动调整对应的权限。</p>\n      </div>\n      <div class=\"faq-item\">\n        <h3>遇到连接不畅或延迟高该如何排查？</h3>\n        <p>建议首先检查本地网络环境，或在节点列表中切换至延迟更低的专属优化线路。若问题依旧，旗舰版与团队版用户可随时提交工单获取技术支持。</p>\n      </div>\n      <div class=\"faq-item\">\n        <h3>团队版支持多名成员独立管理吗？</h3>\n        <p>支持。团队版专为小型企业或工作室设计，提供高带宽与定制路由分发，并配备专属客户经理协助处理配置与管理事宜。</p>\n      </div>\n    </div>\n  </section>\n</main>\n\n<footer>\n  <p>© hpdd Infrastructure. All rights reserved. 专注构建稳定、纯净的网络连接体验。</p>\n</footer>",
+          "hash": "12e1ff8f29f5d16d77866b707c30f8253f87563dc45cc82ba43dd0a10d6029df",
+          "seo": {
+            "title": "hpdd - 杂志式多栏网格与数字基础设施服务",
+            "keywords": "hpdd, 网络服务, 基础设施, 流量套餐, 专线连接",
+            "description": "hpdd 是新一代数字基础设施与网络连接服务商，为您提供高带宽流量、多设备在线管理以及精细化网络路由支持。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "3250",
+            "hero": "3 杂志式多栏网格配引言",
+            "palette": "1 墨黑配荧光绿",
+            "nav": "5 页面顶部面包屑加目录",
+            "card": "5 编号大字压底",
+            "plans_view": "1 横向对比表格",
+            "faq_view": "1 双栏问答",
+            "tone": "5 问答引导式",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "waukre.cn",
+    "host": "p-d6c40cd30d.waukre.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "7f607dec16f0e5517a0465cc53eb92f37517e64b839bb2ec9513077c4a650130",
+    "sitemap.xml": "dc9ef96df2df5a1dd3a5faa275e2bb867f037b4633a98f32032d21b80d02abf1",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d6ff7ef0dfa43246198cab14bb7e6fd4a2dc02600e656b153832a19d209ecfa7",
+    "robots.txt": "abdf1c4a281941b4e91b3b15093be8ad2b219107b3df3243d77a29121b1c618b",
+    "40fc807d6392c146b801ad0cef560927.txt": "bf3419561fda0112ee1f64f6c0cb4bbf23cd05a0ffd361dd0476fbf49f99b5c8"
+  },
+  "revision": "2552602878022b1635a2e43e943d9558d04cb4f9270128c9233032f99ae52953"
+}
